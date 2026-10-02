@@ -1,6 +1,8 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
+import { useTranslation } from 'react-i18next';
 export const Header = (props) => {
+     const { t } = useTranslation()
   return (
     <header id="header">
       <div className="intro">
@@ -9,7 +11,7 @@ export const Header = (props) => {
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
                 <h1>
-                  {props.data ? props.data.title : "Loading"
+                {props.data ? props.data.title : "Loading"
                   
                   }
                   <span></span>
@@ -18,11 +20,17 @@ export const Header = (props) => {
                 <div className="designation">
                 <TypeAnimation
                   sequence={[
-                    "A DESIGNER",
+                   "ISTQB® Certified Tester",
+                   500,
+                   "A MANUAL TESTER",
                     500,
-                    "A DEVELOPER",
+                    "AN AUTOMATION TESTER",
                     500,
-                    "A FREELANCER",
+                    "AN API TESTER",
+                    500,
+                    "AN ACCESSIBILITY TESTER",
+                    500,
+                    "A QA ENGINEER",
                     500,
                   ]}
                   style={{ fontSize: "2em" }}

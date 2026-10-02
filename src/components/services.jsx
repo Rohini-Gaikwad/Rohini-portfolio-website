@@ -9,7 +9,7 @@ export const Services = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Projects</h2>
-<p>Take a look under the hood explore the tools, libraries, and code decisions that made this project possible. From data flow to deployment, it's all here.</p>
+<p>Explore the testing strategies, automation frameworks, tools, and quality practices behind my projects from manual validation and API testing to automated testing and CI/CD integration.</p>
         </div>
         <div className="row">
           {props.data

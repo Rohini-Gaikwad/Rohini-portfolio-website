@@ -125,7 +125,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; Copyright 2025 . Made by{" "}
+            &copy; Copyright 2026 . Made by{" "}
             <a href="https://www.linkedin.com/in/rohini-gaikwad-415b79340/" rel="nofollow">
               Rohini Gaikwad
             </a>

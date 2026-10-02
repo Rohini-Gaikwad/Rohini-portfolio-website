@@ -7,7 +7,7 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2> My Skills</h2>
           <p>
-            I’m a full-stack developer with hands-on experience in building responsive, scalable web applications using the MERN stack.
+          I’m passionate about building reliable, high-quality software through a comprehensive approach to quality assurance. I combine manual testing, test automation, API testing, and accessibility testing.
           </p>
         </div>
         <div id="row">
