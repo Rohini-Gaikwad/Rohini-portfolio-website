@@ -29,7 +29,7 @@
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "largeImage": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
@@ -107,7 +107,7 @@
   ],
   "Testimonials": [
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
       "text": "I build scalable test automation solutions that improve coverage, reduce repetitive testing, and provide fast, reliable feedback throughout the development lifecycle from UI and regression testing to end-to-end automation and CI/CD integration.",
       "name": ""
     },
