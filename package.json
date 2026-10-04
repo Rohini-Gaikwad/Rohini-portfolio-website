@@ -1,6 +1,6 @@
 {
   "name": "rohini-portfolio-website",
-  "homepage": " https://rohini-gaikwad.github.io/Rohini-portfolio-website/",
+  "homepage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
