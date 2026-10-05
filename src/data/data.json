@@ -77,17 +77,17 @@
     {
       "icon": "video/CRUD_REC.mp4",
       "name": "E2E Integration Testing",
-      "text": "https://github.com/Gaikwad-Rohini/react-my-pagination"
+      "text": ""
     },
     {
       "icon": "video/16-11-02.mp4",
       "name": "Playwright Test Automation",
-      "text": ""
+      "text": "https://github.com/Rohini-Gaikwad/Playwright_Project"
     },
     {
       "icon": "video/Cypress_REC.mp4",
       "name": "Cypress Test Automation",
-      "text": "https://github.com/Gaikwad-Rohini/CypressAutomation"
+      "text": ""
     },
     {
       "icon": "video/Cypress_REC.mp4",
@@ -107,109 +107,109 @@
   ],
   "Testimonials": [
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
       "text": "I build scalable test automation solutions that improve coverage, reduce repetitive testing, and provide fast, reliable feedback throughout the development lifecycle from UI and regression testing to end-to-end automation and CI/CD integration.",
       "name": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/ManualTesting.png",
       "text": "I ensure software quality through comprehensive manual testing, covering functional, regression, integration, and exploratory scenarios. I focus on identifying defects, validating functionality, and delivering reliable, user-friendly applications through effective test case design and execution.",
       "name": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/ApiTesting.png",
       "text": "I ensure APIs are reliable, secure, and production-ready through comprehensive functional and automated testing. I validate data, requests, responses, authentication, and integrations to catch critical issues early and deliver seamless system communication.",
       "name": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
       "text": "I ensure digital experiences are accessible and inclusive by identifying barriers that can impact users with disabilities. Through WCAG-focused testing, keyboard and screen reader validation, colour contrast, focus management, and accessible component testing, I help teams build products that are usable by everyone.",
       "name": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Java.png",
       "text": "I develop robust Playwright automation to validate critical user journeys, improve regression coverage, and catch defects early. I focus on scalable, maintainable test suites with reusable components, reliable locators, cross-browser testing, and CI/CD integration.",
       "name": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Java.png",
       "text": "I leverage modern QA tools and development practices to automate testing, improve coverage, accelerate feedback, and maintain quality throughout the development lifecycle. From Playwright, Selenium, and Cypress to Postman, Git, CI/CD, and Jira, I integrate the right tools to create efficient and scalable quality engineering workflows.",
       "name": ""
     }
   ],
   "Team": [
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/ReactJs.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/ManualTesting.png",
       "name": "Manual Testing",
       "job": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/ReactJs.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Automation_testing.png",
       "name": "Automation Testing",
       "job": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Nodejs.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/ApiTesting.png",
       "name": "API Testing",
       "job": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/ExpressJs.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
       "name": "Accessibility Testing",
       "job": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/html5.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/html5.png",
       "name": "HTML5",
       "job": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/RestApi.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/RestApi.png",
       "name": "REST APIs",
       "job": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/javaScript.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/javaScript.png",
       "name": "JavaScript",
       "job": ""
     },
     {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Java.png",
       "name": "Java",
       "job": ""
     },
      {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Cucumber_test.png",
       "name": "Cucumber",
       "job": ""
     }
     ,
      {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website//img/skill/jira.png",
       "name": "JIRA",
       "job": ""
     }
     ,
      {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/cypress.png",
       "name": "Cypress",
       "job": ""
     }
     ,
      {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website//img/skill/postman.png",
       "name": "Postman",
       "job": ""
     }
     ,
      {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/javaScript.png",
       "name": "Selenium",
       "job": ""
     }
     ,
      {
-      "img": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/ReactJs.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Playwright.png",
       "name": "Playwright",
       "job": ""
     }
