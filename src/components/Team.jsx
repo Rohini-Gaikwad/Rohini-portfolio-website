@@ -7,10 +7,11 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2> My Skills</h2>
           <p>
-            I’m passionate about building reliable, high-quality software
-            through a comprehensive approach to quality assurance. I combine
-            manual testing, test automation, API testing, and accessibility
-            testing.
+            Transforming software quality through smart testing, automation, and
+            a user-first mindset. I combine expertise in Manual Testing,
+            Playwright Automation, API Testing, and Accessibility Testing to
+            uncover defects, strengthen application reliability, and deliver
+            seamless digital experiences.
           </p>
         </div>
         <div id="row">

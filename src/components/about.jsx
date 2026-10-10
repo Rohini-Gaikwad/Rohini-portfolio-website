@@ -18,6 +18,27 @@ export const About = (props) => {
               <h2>About Me</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <p>{props.data ? props.data.paragraph1 : "loading..."}</p>
+              <h3>Resume & Cover Letter</h3>
+              <div className="list-style">
+                <div className="col-lg-6 col-sm-6 col-xs-12">
+                  <ul>
+                    <h4>
+                      <a href="#" download>
+                        Download Resume / CV
+                      </a>
+                    </h4>
+                  </ul>
+                </div>
+                <div className="col-lg-6 col-sm-6 col-xs-12">
+                  <ul>
+                    <h4>
+                      <a href="#" download>
+                        Download Cover Letter
+                      </a>
+                    </h4>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
