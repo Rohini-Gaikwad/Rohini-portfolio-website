@@ -3,7 +3,6 @@ html {
   font-family: "Open Sans", sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
-  /* color: #777; */
   font-weight: 400;
   width: 100% !important;
   height: 100% !important;
@@ -351,6 +350,35 @@ header .intro-text {
 #services .service-desc {
   margin-bottom: 40px;
 }
+
+#services .row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+#services .row > [class*="col-"] {
+  margin-bottom: 25px;
+}
+
+/* Video container */
+#services .project-video {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #eee;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+/* Video */
+#services .project-video-player {
+  display: block;
+  width: 100%;
+
+  object-fit: contain;
+}
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
@@ -501,7 +529,7 @@ header .intro-text {
 }
 #contact .btn-custom {
   margin: 30px 0;
-  background: transparent;
+  background: #1f386e;
   border: 2px solid #fff;
 }
 #contact .btn-custom:hover {

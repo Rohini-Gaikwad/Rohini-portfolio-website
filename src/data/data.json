@@ -1,108 +1,70 @@
-
 {
   "Header": {
     "title": "Who I Am",
     "paragraph": "I’m Rohini Gaikwad"
   },
   "About": {
-    "paragraph": "Results-driven QA Analyst and ISTQB® Certified Tester Foundation Level (CTFL) professional with hands-on expertise in Manual Testing, Test Automation, API Testing, and Accessibility Testing across web and RESTful API applications. Experienced in building scalable automation frameworks and executing functional, regression, integration, and end-to-end testing throughout the SDLC/STLC. Delivered measurable results by executing 150+ manual test cases, developing 80+ automation scripts, identifying 100+ critical and high-severity defects, and reducing regression testing effort by up to 40% through CI/CD-integrated automation. Strong in API testing, database validation, defect management, and collaborative quality engineering, with a focus on early defect detection, efficient testing, and reliable software delivery.",
-    "Why": [
-      "Test Automation & Frameworks",
-      "API Testing & Integration",
-      "Manual & Exploratory Testing",
-      "Functional & Regression Testing",
-      "Accessibility & Usability Testing",
-      "Defect Management",
-      "End-to-End Test Coverage"
-     
-    ],
-    "Why2": [
-       "Quality Engineering",
-      "Fast Learner & Adaptable",
-      "Strong Communication",
-      "Problem Solver at Heart",
-      "DevOps & Deployment",
-      "Attention to Detail",
-      "Continuous Improvement"
-    ]
+    "paragraph": "Results-driven QA Analyst and ISTQB® CTFL-certified professional specialising in Manual Testing, Playwright Test Automation, API Testing, and Accessibility Testing. Experienced in testing web applications and RESTful APIs, with a strong understanding of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). Proficient in developing and maintaining automated test scripts using Playwright with JavaScript, creating reusable test components, and implementing reliable automation solutions to improve test coverage and reduce repetitive manual effort. Skilled in designing and executing functional, regression, integration, and end-to-end tests, alongside validating API responses, HTTP status codes, request payloads, and data integrity. Experienced with Cucumber and Behaviour-Driven Development (BDD), Jira for defect tracking and test management, and HTML and JavaScript for web application testing. Knowledgeable in accessibility testing to help ensure inclusive, user-friendly digital experiences and compliance with accessibility standards.",
+    "paragraph1": "Demonstrated impact by executing 150+ manual test cases, developing 80+ automation scripts, identifying 100+ critical and high-severity defects, and reducing regression testing effort by up to 40% through CI/CD-integrated automation. Skilled in test planning, API validation, database testing, defect lifecycle management, and collaborative quality engineering, with a commitment to accelerating release cycles, enhancing test efficiency, and delivering high-quality user experiences."
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "https://gaikwad-rohini.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": " ISTQB® Certified Tester Foundation Level (CTFL) v4.0 ",
+      "largeImage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/ISTQB_Certified_Tester.png",
+      "smallImage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/ISTQB_Certified_Tester.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "LLM and Prompt Engineering Tech Tester",
+      "largeImage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Certificate_LLM_prompt.png",
+      "smallImage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Certificate_LLM_prompt.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "AI Security Tech Tester",
+      "largeImage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Certificate_AI_security.png",
+      "smallImage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Certificate_AI_security.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Javascript",
+      "largeImage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Certificate_Javascript.png",
+      "smallImage": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Certificate_Javascript.png"
     }
   ],
   "Services": [
     {
       "icon": "video/CRUD_REC.mp4",
       "name": "E2E Integration Testing",
-      "text": ""
+      "text": "https://github.com/Rohini-Gaikwad/Playwright_Project",
+      "thumbnail": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Playwright.png"
     },
     {
       "icon": "video/16-11-02.mp4",
       "name": "Playwright Test Automation",
-      "text": "https://github.com/Rohini-Gaikwad/Playwright_Project"
+      "text": "https://github.com/Rohini-Gaikwad/Playwright_Project",
+      "thumbnail": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Playwright.png"
     },
     {
       "icon": "video/Cypress_REC.mp4",
       "name": "Cypress Test Automation",
-      "text": ""
+      "text": "https://github.com/Rohini-Gaikwad/Playwright_Project",
+      "thumbnail": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/cypress.png"
     },
     {
       "icon": "video/Cypress_REC.mp4",
       "name": "Accessibility Testing",
-      "text": ""
+      "text": "https://github.com/Rohini-Gaikwad/Playwright_Project",
+      "thumbnail": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png"
     },
     {
       "icon": "video/Cypress_REC.mp4",
       "name": "Selenium Test Automation",
-      "text": ""
+      "text": "https://github.com/Rohini-Gaikwad/Playwright_Project",
+      "thumbnail": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Selenium.png"
     },
     {
       "icon": "video/Cypress_REC.mp4",
       "name": "Manual Testing",
-      "text": ""
+      "text": "https://github.com/Rohini-Gaikwad/Playwright_Project",
+      "thumbnail": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/ManualTesting.png"
     }
   ],
   "Testimonials": [
@@ -127,12 +89,12 @@
       "name": ""
     },
     {
-      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Playwright.png",
       "text": "I develop robust Playwright automation to validate critical user journeys, improve regression coverage, and catch defects early. I focus on scalable, maintainable test suites with reusable components, reliable locators, cross-browser testing, and CI/CD integration.",
       "name": ""
     },
     {
-      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Java.png",
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website//img/skill/jira.png",
       "text": "I leverage modern QA tools and development practices to automate testing, improve coverage, accelerate feedback, and maintain quality throughout the development lifecycle. From Playwright, Selenium, and Cypress to Postman, Git, CI/CD, and Jira, I integrate the right tools to create efficient and scalable quality engineering workflows.",
       "name": ""
     }
@@ -151,11 +113,6 @@
     {
       "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/ApiTesting.png",
       "name": "API Testing",
-      "job": ""
-    },
-    {
-      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
-      "name": "Accessibility Testing",
       "job": ""
     },
     {
@@ -178,39 +135,39 @@
       "name": "Java",
       "job": ""
     },
-     {
+    {
       "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Cucumber_test.png",
       "name": "Cucumber",
       "job": ""
-    }
-    ,
-     {
+    },
+    {
       "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website//img/skill/jira.png",
       "name": "JIRA",
       "job": ""
-    }
-    ,
-     {
+    },
+    {
       "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/cypress.png",
       "name": "Cypress",
       "job": ""
-    }
-    ,
-     {
+    },
+    {
       "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website//img/skill/postman.png",
       "name": "Postman",
       "job": ""
-    }
-    ,
-     {
+    },
+    {
       "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/javaScript.png",
       "name": "Selenium",
       "job": ""
-    }
-    ,
-     {
+    },
+    {
       "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/Playwright.png",
       "name": "Playwright",
+      "job": ""
+    },
+    {
+      "img": "https://rohini-gaikwad.github.io/Rohini-portfolio-website/img/skill/AccessibilityTesting.png",
+      "name": "Accessibility Testing",
       "job": ""
     }
   ],

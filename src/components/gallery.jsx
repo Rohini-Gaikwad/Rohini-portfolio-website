@@ -6,10 +6,12 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Certifications &amp; Training</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Professional certifications and targeted training that validate my
+            expertise, strengthen practical capabilities, and deliver measurable
+            value through improved performance, efficiency, and continuous
+            professional development.
           </p>
         </div>
         <div className="row">
