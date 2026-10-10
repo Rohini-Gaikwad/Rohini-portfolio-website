@@ -377,6 +377,7 @@ header .intro-text {
 #services .project-video-player {
   display: block;
   width: 100%;
+
   object-fit: contain;
 }
 /* Portfolio Section */
@@ -529,7 +530,7 @@ header .intro-text {
 }
 #contact .btn-custom {
   margin: 30px 0;
-  background: transparent;
+  background: #1f386e;
   border: 2px solid #fff;
 }
 #contact .btn-custom:hover {
