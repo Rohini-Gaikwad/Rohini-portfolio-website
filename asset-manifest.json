@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Rohini-portfolio-website/static/css/main.ae42ac5f.css",
-    "main.js": "/Rohini-portfolio-website/static/js/main.60bc6bdd.js",
+    "main.js": "/Rohini-portfolio-website/static/js/main.f8145aab.js",
     "index.html": "/Rohini-portfolio-website/index.html",
     "main.ae42ac5f.css.map": "/Rohini-portfolio-website/static/css/main.ae42ac5f.css.map",
-    "main.60bc6bdd.js.map": "/Rohini-portfolio-website/static/js/main.60bc6bdd.js.map"
+    "main.f8145aab.js.map": "/Rohini-portfolio-website/static/js/main.f8145aab.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.60bc6bdd.js"
+    "static/js/main.f8145aab.js"
   ]
 }
